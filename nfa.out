@@ -1,0 +1,14 @@
+Numarul de stari:3
+Starile sunt:
+{0 }
+{0 1 }
+{0 2 }
+Matricea de adiacenta pentru DFA:
+{0} 0 {01}
+{0} 1 {0}
+{01} 0 {01}
+{01} 1 {02}
+{02} 0 {01}
+{02} 1 {0}
+Starile finale sunt:
+{0 2 }
